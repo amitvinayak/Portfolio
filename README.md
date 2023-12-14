@@ -1,5 +1,5 @@
 # Portfolio
-This repository showcase the projects I have done as a DevOps engineer
+This repository showcase the projects I have worked on as a DevOps engineer
 
 Project 1 : Migrating on premise application to kubernetes cluster using manifest files in Helm chart.
             - Writing deployment, service, Ingress, pv, pvc YAML files and deploy the application in EKS cluster using Helm chart.
